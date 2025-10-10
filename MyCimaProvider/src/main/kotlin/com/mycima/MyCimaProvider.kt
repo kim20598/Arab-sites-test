@@ -11,7 +11,7 @@ import org.jsoup.nodes.Element
 
 class MyCima : MainAPI() {
     override var lang = "ar"
-    override var mainUrl = "https://wecima.tube"
+    override var mainUrl = "https://wecima.click"
     override var name = "MyCima"
     override val usesWebView = false
     override val hasMainPage = true
