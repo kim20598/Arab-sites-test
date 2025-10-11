@@ -3,6 +3,6 @@
     "description": "Updating the Cloudstream Arabic Provider. Feel free to join the Cloudstream Discord server for the latest information.",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/kim20598/Arab-sites-test/raw/refs/heads/builds/plugins.json"
+      "https://raw.githubusercontent.com/kim20598/Arab-sites-test/refs/heads/builds/plugins.json"
     ]
   }
